@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int i, n, x, c, nilai_a=3, selisih=4, jumlah=0;
+	int i, n, c, nilai_a=3, selisih=4, jumlah=0;
 	
 	cout<<"\tMenghitung jumlah deret"<<endl;
 	cout<<"======================================="<<endl;
