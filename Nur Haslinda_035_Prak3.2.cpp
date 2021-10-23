@@ -7,8 +7,7 @@ int main(){
 	cout<<"\tMenghitung jumlah deret"<<endl;
 	cout<<"======================================="<<endl;
 	cout<<"Nilai awal = 3";
-	cout<<"\nSelisih Nilai = 4";
-	cout<<"Sn = n/2(2a+(n-1)b)"<<endl;
+	cout<<"\nSelisih Nilai = 4"<<endl;
 	
 	cout<<"\nMasukkan deret ke-n = ";
 	cin>>n;
